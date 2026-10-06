@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack 🏃",
+  "description": "Train Smarter. Track Better. Get Stronger. FitTrack is a personal fitness tracking SPA for logging workouts, tracking goals, monitoring progress, and maintaining workout streaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
